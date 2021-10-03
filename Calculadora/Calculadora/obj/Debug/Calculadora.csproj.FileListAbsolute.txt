@@ -1,0 +1,10 @@
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Gisele\Desktop\Projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
